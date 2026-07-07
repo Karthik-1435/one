@@ -79,7 +79,6 @@
             font-weight: 700;
             font-size: 20px;
             color: var(--primary);
-            color: var(--primary);
         }
 
         .brand .accent {
