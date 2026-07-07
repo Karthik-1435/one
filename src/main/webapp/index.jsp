@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -79,6 +78,7 @@
             font-family: Poppins, sans-serif;
             font-weight: 700;
             font-size: 20px;
+            color: var(--primary);
             color: var(--primary);
         }
 
